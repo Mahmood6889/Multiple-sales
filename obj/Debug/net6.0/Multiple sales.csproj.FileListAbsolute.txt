@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\Multiple sales\bin\Debug\net6.0\Multiple sales.exe
+C:\Users\HP\Desktop\Multiple sales\bin\Debug\net6.0\Multiple sales.deps.json
+C:\Users\HP\Desktop\Multiple sales\bin\Debug\net6.0\Multiple sales.runtimeconfig.json
+C:\Users\HP\Desktop\Multiple sales\bin\Debug\net6.0\Multiple sales.dll
+C:\Users\HP\Desktop\Multiple sales\bin\Debug\net6.0\Multiple sales.pdb
+C:\Users\HP\Desktop\Multiple sales\obj\Debug\net6.0\Multiple sales.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Multiple sales\obj\Debug\net6.0\Multiple sales.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Multiple sales\obj\Debug\net6.0\Multiple sales.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Multiple sales\obj\Debug\net6.0\Multiple sales.AssemblyInfo.cs
+C:\Users\HP\Desktop\Multiple sales\obj\Debug\net6.0\Multiple sales.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Multiple sales\obj\Debug\net6.0\Multiple sales.dll
+C:\Users\HP\Desktop\Multiple sales\obj\Debug\net6.0\refint\Multiple sales.dll
+C:\Users\HP\Desktop\Multiple sales\obj\Debug\net6.0\Multiple sales.pdb
+C:\Users\HP\Desktop\Multiple sales\obj\Debug\net6.0\Multiple sales.genruntimeconfig.cache
+C:\Users\HP\Desktop\Multiple sales\obj\Debug\net6.0\ref\Multiple sales.dll
